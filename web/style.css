@@ -1,0 +1,138 @@
+.below_table {
+    width: 900px;
+    max-height: 455px;
+    overflow: auto;
+}
+
+.user th {
+    background-color: #FFEEBA;
+}
+
+.user {
+    border: 1px solid #B9BBBE;
+    box-shadow: 0 0 1px #bfbfbf;
+}
+
+.rigth {
+    width: 900px;
+    height: 720px;
+    float: left;
+    margin-left: 50px;
+}
+
+.rigth header {
+    height: 50px;
+    background-color: #55ff7f;
+    border-radius: 5px 5px 0 0;
+
+}
+
+header {
+    width: 100%;
+}
+
+header h3 {
+    padding: 8px;
+    font-weight: 300;
+    font-weight: "微软雅黑";
+}
+
+.size {
+    font-size: 10px;
+}
+
+ul {
+    width: 400px;
+    height: 570px;
+    overflow: auto;
+    border-radius: 0 0 5px 5px;
+}
+
+#ul {
+    width: 400px;
+    height: 570px;
+}
+
+.left header {
+    height: 50px;
+    background-color: #10ddfc;
+    border-radius: 5px 5px 0 0;
+
+}
+
+.buth {
+    float: right;
+
+}
+
+.btn-xs {
+    width: 50px;
+    height: 30px;
+    font-size: 10px;
+}
+
+.left {
+    width: 400px;
+    height: 620px;
+    margin-left: 10px;
+    float: left;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul::-webkit-scrollbar {
+    width: 0px;
+}
+
+.win {
+    width: 1400px;
+    max-height: 720px;
+    background-color: cornsilk;
+
+    border-radius: 15px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+
+.top {
+    width: 1400px;
+    height: 60px;
+    padding: 10px 0 5px 0;
+}
+
+.top i {
+    background-image: url(BNLpoOVmpe.png);
+    background-size: 100%;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-left: 10px;
+}
+
+.top b {
+    float: left;
+    margin-top: 5px;
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+#derive {
+    position: relative;
+    top: -50px;
+    left: 800px;
+
+}
+
+#table {
+    width: 900px;
+    height: 570px;
+
+}
